@@ -1,3 +1,4 @@
 # gmmc
 ## Demonstration
-Youtube [link](https://github.com/parvatsapkota/gmmc/blob/main/website.gif)!
+Youtube [link](https://youtu.be/G2GVisdM1HY)!
+
